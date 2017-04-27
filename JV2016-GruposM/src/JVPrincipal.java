@@ -5,7 +5,7 @@
  * @since: prototipo1.0
  * @source: JVPrincipal.java 
  * @version: 2.0 - 2017/03/11 
- * @author: ajp
+ * @author: rml
  */
 
 import accesoDatos.Datos;
